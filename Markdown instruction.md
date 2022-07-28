@@ -56,4 +56,7 @@
 Команда для слияния:
 
     git merge branch_name
-    
+
+## Для удаления веток нужно ввести команду:
+
+    git branch -d branch_name
